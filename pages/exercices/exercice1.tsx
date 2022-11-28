@@ -17,18 +17,64 @@ export default function Exercise1() {
       </ul>
 
       <table className="table">
-        <tr>
-          <th>Balise</th>
-          <th>Contenu</th>
-        </tr>
-        <tr>
-          <td>a</td>
-          <td>texte</td>
-        </tr>
-        <tr>
-          <td>ul</td>
-          <td>li</td>
-        </tr>
+        <tbody>
+          <tr>
+            <th>Balise</th>
+            <th>Contenu</th>
+          </tr>
+          <tr>
+            <td>a</td>
+            <td>texte</td>
+          </tr>
+          <tr>
+            <td>ul</td>
+            <td>li</td>
+          </tr>
+          <tr>
+            <td>html</td>
+            <td>corps de texte</td>
+          </tr>
+          <tr>
+            <td>table</td>
+            <td>tr td th</td>
+          </tr>
+          <tr>
+            <td>h1, h2, ...</td>
+            <td>titre</td>
+          </tr>
+          <tr>
+            <td>p</td>
+            <td>texte</td>
+          </tr>
+          <tr>
+            <td>head</td>
+            <td>entête</td>
+          </tr>
+          <tr>
+            <td>body</td>
+            <td>corps</td>
+          </tr>
+          <tr>
+            <td>ul</td>
+            <td>li</td>
+          </tr>
+          <tr>
+            <td>article</td>
+            <td>texte</td>
+          </tr>
+          <tr>
+            <td>form</td>
+            <td>method label input button</td>
+          </tr>
+          <tr>
+            <td>image</td>
+            <td>source</td>
+          </tr>
+          <tr>
+            <td>video</td>
+            <td>source</td>
+          </tr>
+        </tbody>
       </table>
     </div>
   );

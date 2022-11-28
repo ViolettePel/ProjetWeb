@@ -1,6 +1,6 @@
 export default function Exercise3() {
   return (
-    <div className="container">
+    <div className="container exercice3">
       <h1>Exercice 3</h1>
 
       <p>Consignes :</p>

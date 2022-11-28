@@ -1,0 +1,19 @@
+.exercice3 label {
+  color: #0f056b;
+}
+
+.exercice3 input[type="text"] {
+  font-size: larger;
+}
+
+.exercice3 .address-block {
+  position: relative;
+}
+
+.exercice3 .warning-block {
+  position: absolute;
+  right: 0;
+
+  font-size: 10px;
+  color: red;
+}
