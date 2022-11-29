@@ -9,5 +9,5 @@ export default function PostTweet({
   threadRootId,
   originalId,
 }: Props) {
-  return <div></div>;
+  return <div>PostTweet</div>;
 }
